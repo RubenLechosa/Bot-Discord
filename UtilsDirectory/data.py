@@ -5,7 +5,7 @@ import os
 
 ########################################################################################################################
 # Paste your token and a custom prefix right here:
-dc_token = "OTA1MTkyODk4MjI2NjgzOTM0.YYGglA.dv-qTzfBFikZgld7hf2dtAyC9S0"  # DISCORD-TOKEN
+dc_token = ""  # DISCORD-TOKEN
 dc_prefix = "!!"  # BOT-PREFIX
 
 ########################################################################################################################
@@ -18,4 +18,4 @@ timeout = 35
 waitmsg = "⏳ | Buscando los mejores memes para ti..."
 donemsg = "✅ | **Tengo algo muy bueno**"
 no_msg = "❎ | **Okay.**"
-timeout_msg = "☕ | **Un momento porfa, algo va mal**"
+timeout_msg = "☕ | **Fin de tiempo de espera**"
