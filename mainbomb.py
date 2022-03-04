@@ -1,4 +1,4 @@
-'  The Imports (Do not change anything right here)  '
+
 from UtilsDirectory.data import *
 
 '  Enable Intents due to discord making us enable intents to get the member list   '
